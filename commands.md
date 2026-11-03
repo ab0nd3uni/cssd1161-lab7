@@ -3,3 +3,5 @@
 3. git add - It stages file changes for the next commit.
 4. git commit - It saves staged changes to the repository history.
 5. git checkout - It switches between different branches.
+6. git push - It uploads local repository commits to a remote repository.
+7. git pull - It fetches and integrates changes from a remote repository into the current branch.
